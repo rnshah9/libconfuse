@@ -1,0 +1,6 @@
+project: rnshah9/libconfuse
+target: libconfuse
+tests: null
+
+cmds:
+  - cmd: /repo/examples/.libs/env @@
