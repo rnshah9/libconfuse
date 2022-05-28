@@ -1,5 +1,5 @@
 project: rnshah9/libconfuse
-target: libconfuse
+target: env
 tests: null
 
 cmds:
