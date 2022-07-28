@@ -2,4 +2,4 @@ project: libconfuse
 target: env
 
 cmds:
-  - cmd: /repo/examples/.libs/env @@
+  - cmd: /env @@
