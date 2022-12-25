@@ -1,0 +1,6 @@
+project: libconfuse
+target: cfg-tilde-expand
+
+cmds:
+  - cmd: /fuzz_cfg_tilde_expand
+    libfuzzer: true

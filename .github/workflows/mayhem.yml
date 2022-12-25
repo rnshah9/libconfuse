@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_cfg_tilde_expand
+          - mayhem/Mayhemfile_env
 
     steps:
       - uses: actions/checkout@v3
