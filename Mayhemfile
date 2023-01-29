@@ -1,0 +1,5 @@
+project: libconfuse
+target: env
+
+cmds:
+  - cmd: /env @@
